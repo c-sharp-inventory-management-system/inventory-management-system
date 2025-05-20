@@ -26,9 +26,9 @@ namespace InventoryManagementSystem
             {
                 progressBar1.Value = 0;
                 timer1.Stop();
-                //LoginForm login = new LoginForm();
+                LoginForm login = new LoginForm();
                 this.Hide();
-                //login.ShowDialog();
+                login.ShowDialog();
             }
         }
     }
