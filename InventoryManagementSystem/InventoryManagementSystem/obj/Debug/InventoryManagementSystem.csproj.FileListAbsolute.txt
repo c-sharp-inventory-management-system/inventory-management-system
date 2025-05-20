@@ -9,3 +9,6 @@ D:\c#\inventory-management-system\InventoryManagementSystem\InventoryManagementS
 D:\c#\inventory-management-system\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
 D:\c#\inventory-management-system\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
 D:\c#\inventory-management-system\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
+C:\Users\lenovo\inventory-management-system\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csprojAssemblyReference.cache
+C:\Users\lenovo\inventory-management-system\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+C:\Users\lenovo\inventory-management-system\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
