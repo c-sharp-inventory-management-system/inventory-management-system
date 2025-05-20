@@ -1,0 +1,11 @@
+D:\c#\inventory-management-system\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.AssemblyReference.cache
+D:\c#\inventory-management-system\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+D:\c#\inventory-management-system\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+D:\c#\inventory-management-system\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+D:\c#\inventory-management-system\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.WelcomeForm.resources
+D:\c#\inventory-management-system\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+D:\c#\inventory-management-system\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+D:\c#\inventory-management-system\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+D:\c#\inventory-management-system\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+D:\c#\inventory-management-system\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+D:\c#\inventory-management-system\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.LoginForm.resources
