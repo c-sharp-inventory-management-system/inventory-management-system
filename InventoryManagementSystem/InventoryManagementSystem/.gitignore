@@ -1,0 +1,39 @@
+# Ignore Visual Studio temporary files, build results, and user-specific files
+
+## User-specific files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+## NuGet packages
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+## Visual Studio Code
+.vscode/
+
+## Others
+*.dbmdl
+*.psess
+*.vsp
+*.vspx
+*.pdb
+*.cache
+*.tmp
+*.log
+
+## OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
