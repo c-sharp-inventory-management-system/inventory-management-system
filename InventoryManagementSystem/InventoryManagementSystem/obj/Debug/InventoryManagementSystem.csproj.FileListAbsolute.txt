@@ -15,3 +15,6 @@ C:\Users\lenovo\inventory-management-system\InventoryManagementSystem\InventoryM
 C:\Users\my computer\Desktop\c#\inventory-management-system\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
 C:\Users\my computer\Desktop\c#\inventory-management-system\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
 C:\Users\my computer\Desktop\c#\inventory-management-system\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+C:\Users\my computer\Desktop\c#-\inventory-management-system\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe.config
+C:\Users\my computer\Desktop\c#-\inventory-management-system\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+C:\Users\my computer\Desktop\c#-\inventory-management-system\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
